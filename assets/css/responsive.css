@@ -1,0 +1,106 @@
+@media (max-width: 767.98px) { 
+
+	.top-filter-section nav {
+	    float: none;
+	}
+	.top-filter-section .col-3{
+		width: 33%;
+		max-width: 33%;
+		flex: 0 0 33%;
+	}
+	.top-filter-section .select .selectBtn {
+	    padding: 7px 5px;
+	    font-size: 12px;
+	}
+	.top-filter-section button {
+	    padding: 5px 35px;
+	    margin-top: 15px;
+	    margin-left: 100%;
+	}
+	.top-filter-section h3 {
+	    font-size: 22px;
+	    text-align: center;
+	}
+	.page-tittle h2 {
+	    font-size: 28px;
+	}
+	.product-page-filter button, select {
+	    font-size: 15px;
+	}
+	.all-products .pagination {
+	    float: none;
+	    padding-top: 10px;
+	}
+	.product-pagination .pagination {
+	    border-left: none;
+	}
+	.collection-product-wrapper .product-pagination .theme-paggination-block nav {
+	    border: none;
+	}
+	.all-products .page-main-content {
+	    padding: 10px;
+	}
+	.products-box {
+	    padding: 15px;
+	}
+	.products-box .t-subhead {
+	    font-size: 14px;
+	}
+	.products-box h2 {
+	    font-size: 23px;
+	}
+	.products-box .b-subhead {
+	    font-size: 15px;
+	    padding-bottom: 0px;
+	}
+	.products-box .offer-btn {
+	    padding: 5px 5px;
+	    font-size: 12px;
+	    margin-bottom: 10px;
+	}
+	.all-products .slider-small-img{
+		display: none;
+	}
+	.products-box .sale-box {
+	    right: 3%;
+	    top: 62%;
+	}
+	.products-box .sale-box .sale-text {
+	    font-size: 14px;
+	    padding-top: 25%;
+	}
+	.recommend {
+	    padding-top: 0px;
+	}
+	.all-products .col{
+		padding: 0;
+	}
+	.all-products .product-right {
+	    text-align: left;
+	    margin: 20px 0 10px 0;
+	}
+	.all-products .product-right .product-description .qty-box {
+	    display: block;
+	    margin-top: 10px;
+	}
+	.all-products .product-right h3 {
+	    font-size: 32px;
+	}
+	.guide-section h1 {
+	    font-size: 28px;
+	}
+	.guide-section h6 {
+	    font-size: 16px;
+	}
+	.why-section h1 {
+	    font-size: 28px;
+	}
+	.why-section .feature-box {
+	    margin: 15px 0px;
+	}
+	.products-box .product-right span {
+	    color: #F8AF2E;
+	    font-size: 16px;
+	}
+
+}
